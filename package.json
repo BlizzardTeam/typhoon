@@ -1,0 +1,8 @@
+{
+    "name": "typhoon",
+    "description": "Typhoon Egine",
+    "version": "0.0.1",
+    "devDependencies": {
+        "jasmine": "^3.5.0"
+    }
+}
